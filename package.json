@@ -1,0 +1,23 @@
+{
+  "name": "next-garden",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "next": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@mojs/core": "^0.288.2",
+    "@sendgrid/mail": "^7.4.0",
+    "mongodb": "^3.6.2",
+    "next": "9.5.3",
+    "react": "16.13.1",
+    "react-awesome-reveal": "^3.5.0",
+    "react-dom": "16.13.1",
+    "react-image-magnify": "^2.7.4",
+    "realm-web": "^1.0.0",
+    "unfetch": "^4.2.0"
+  }
+}

@@ -1,0 +1,216 @@
+[
+  {
+    "name": "zebra-wart",
+    "alias": "haworthias",
+    "family": "wart-plant",
+    "image": "zebra-wart----haworthias--wart-plant.jpg",
+    "price": 15,
+    "pots": []
+  },
+  {
+    "name": "golden-barrel-cactus",
+    "alias": "clustered-barrel-cacti",
+    "family": "echinocactus",
+    "image": "golden-barrel-cactus----clustered-barrel-cacti--echinocactus.jpg",
+    "price": 15,
+    "pots": []
+  },
+  {
+    "name": "ball-cactus",
+    "alias": "parodia",
+    "family": "parodia-magnifica",
+    "image": "ball-cactus----parodia--parodia-magnifica.jpg",
+    "price": 15,
+    "pots": []
+  },
+  {
+    "name": "chihuahua-flower",
+    "alias": "leatherpetal",
+    "family": "graptopetalum-bellum",
+    "image": "chihuahua-flower----leatherpetal--graptopetalum-bellum_A.jpg",
+    "price": 15,
+    "pots": []
+  },
+  {
+    "name": "chocolate-soldier",
+    "alias": "pussy-ears",
+    "family": "kalanchoe-tomentosa",
+    "image": "chocolate-soldier----pussy-ears--kalanchoe-tomentosa.jpg",
+    "price": 15,
+    "pots": []
+  },
+  {
+    "name": "echeveria-pollux",
+    "alias": "hen-and-chicks",
+    "family": "echeveria",
+    "image": "echeveria-pollux----hen-and-chicks--echeveria.jpg",
+    "price": 15,
+    "pots": []
+  },
+  {
+    "name": "elephant-bush",
+    "alias": "portulacaria",
+    "family": "rainbow-bush",
+    "image": "elephant-bush----portulacaria--rainbow-bush.jpg",
+    "price": 15,
+    "pots": []
+  },
+  {
+    "name": "ghost-plant",
+    "alias": "stonecrop",
+    "family": "sedum-weinbergii",
+    "image": "ghost-plant----stonecrop--sedum-weinbergii.jpg",
+    "price": 15,
+    "pots": []
+  },
+  {
+    "name": "jade-plant",
+    "alias": "pigmyweeds",
+    "family": "crassula",
+    "image": "jade-plant----pigmyweeds--crassula.jpg",
+    "price": 15,
+    "pots": []
+  },
+  {
+    "name": "mexican-snowball",
+    "alias": "sonecrop",
+    "family": "crassulaceae",
+    "image": "mexican-snowball----sonecrop--crassulaceae.jpg",
+    "price": 15,
+    "pots": []
+  },
+  {
+    "name": "molded-wax-agave",
+    "alias": "lipstick-echeveria",
+    "family": "echeveria-agavoides",
+    "image": "molded-wax-agave----lipstick-echeveria--echeveria-agavoides.jpg",
+    "price": 15,
+    "pots": []
+  },
+  {
+    "name": "old-man-cactus",
+    "alias": "cephalocereus",
+    "family": "bunny-cactus",
+    "image": "old-man-cactus----cephalocereus--bunny-cactus.jpg",
+    "price": 15,
+    "pots": []
+  },
+  {
+    "name": "paddle-plant",
+    "alias": "desert-cabbage",
+    "family": "kalanchoe-tetraphylla",
+    "image": "paddle-plant----desert-cabbage--kalanchoe-tetraphylla_A.jpg",
+    "price": 15,
+    "pots": []
+  },
+  {
+    "name": "pincushion-peperomia",
+    "alias": "radiator-plant",
+    "family": "peperomia-ferreyrae",
+    "image": "pincushion-peperomia----radiator-plant--peperomia-ferreyrae.jpg",
+    "price": 15,
+    "pots": []
+  },
+  {
+    "name": "plover-eggs",
+    "alias": "adromischus",
+    "family": "adromischus-cooperi",
+    "image": "plover-eggs----adromischus--adromischus-cooperi.jpg",
+    "price": 15,
+    "pots": []
+  },
+  {
+    "name": "pulidos-echeveria",
+    "alias": "stone-rose",
+    "family": "echeveria-pulidonis",
+    "image": "pulidos-echeveria----stone-rose--echeveria-pulidonis_A.jpg",
+    "price": 15,
+    "pots": []
+  },
+  {
+    "name": "spiny-pincushion-cactus",
+    "alias": "globe-cactus",
+    "family": "mammillaria",
+    "image": "spiny-pincushion-cactus----globe-cactus--mammillaria_B.jpg",
+    "price": 15,
+    "pots": []
+  },
+  {
+    "name": "springtime-crassula",
+    "alias": "pigmyweeds",
+    "family": "crassula",
+    "image": "springtime-crassula----pigmyweeds--crassula.jpg",
+    "price": 15,
+    "pots": []
+  },
+  {
+    "name": "string-of-buttons",
+    "alias": "pigmyweeds",
+    "family": "crassula",
+    "image": "string-of-buttons----pigmyweeds--crassula.jpg",
+    "price": 15,
+    "pots": []
+  },
+  {
+    "name": "urbinia-purpusii",
+    "alias": "hen-and-chicks",
+    "family": "echeveria-perle-von-nurnberg",
+    "image": "urbinia-purpusii----hen-and-chicks--echeveria-perle-von-nurnberg.jpg",
+    "price": 15,
+    "pots": []
+  },
+  {
+    "name": "urbinia-purpusii",
+    "alias": "hen-and-chicks",
+    "family": "echeveria-purpusorum",
+    "image": "urbinia-purpusii----hen-and-chicks--echeveria-purpusorum.jpg",
+    "price": 15,
+    "pots": []
+  },
+  {
+    "name": "vertical-leaf-senecio",
+    "alias": "ragworts",
+    "family": "senecio-crassissimus",
+    "image": "vertical-leaf-senecio----ragworts--senecio-crassissimus.jpg",
+    "price": 15,
+    "pots": []
+  },
+  {
+    "name": "zebra-plant",
+    "alias": "haworthias",
+    "family": "haworthia-fasciata",
+    "image": "zebra-plant----haworthias-haworthia-fasciata.jpg",
+    "price": 15,
+    "pots": []
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
